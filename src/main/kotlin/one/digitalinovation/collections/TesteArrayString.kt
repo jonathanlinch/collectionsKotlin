@@ -1,7 +1,7 @@
 package one.digitalinovation.collections
 
 fun main(){
-    var nomes = Array<String>(3){""}
+    val nomes = Array<String>(3){""}
     nomes[0] = "Maria"
     nomes[1] = "Zé"
     nomes[2] = "João"
